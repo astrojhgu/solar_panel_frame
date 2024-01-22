@@ -8,3 +8,5 @@
 太阳能板尺寸
 ![太阳能板尺寸](./solar_panel.png)
 
+# 角件清单
+![parts](parts.png)
